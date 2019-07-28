@@ -44,10 +44,11 @@ It is possible to work with all sequences of DAVIS 2016 just by creating a soft 
 
 Have a happy training!
 
-If you encounter any problems with the code, want to report bugs, etc. please contact me at `
-`xmandsi@gmail.com`
-`divyamvswild@gmail.com`
-`harishtomar986@gmail.com`
-`swamynathantcs@gmail.com`
+If you encounter any problems with the code, want to report bugs, etc. please contact me at 
+
+Divyam Jain `divyamvswild@gmail.com`
+Daniel Syles Immanuel `xmandsi@gmail.com`
+Harish Tomar `harishtomar986@gmail.com`
+Swamynathan `swamynathantcs@gmail.com`
 
 Check our [project page](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos) for additional information.
