@@ -5,6 +5,7 @@ This file is part of the OSVOS paper presented in:
 	CVPR 2017
 
 Daniel Syles Immanuel (xmandsi@gmail.com)
+Divyam Jain (divyamvswild@gmail.com)
 This file is a part of the OSVOS Paper presented in:
 	Bennett University Deep Learning Internship 2019.
 
