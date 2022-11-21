@@ -3,4 +3,4 @@ scipy==0.18.1
 matplotlib==1.5.3
 numpy==1.22.0
 Pillow==6.2.0
-tensorflow==1.15.2
+tensorflow==2.9.3
